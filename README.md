@@ -1,6 +1,6 @@
 # Owais Nazir
 Reban, Sopore, Jammu and Kashmir, 193201 | [owaisaalam38@gmail.com](mailto:owaisaalam38@gmail.com) | +919103293240  
-[LinkedIn](https://www.linkedin.com/in/owaisnazir/) | [GitHub](https://github.com/owaisnazir)
+[LinkedIn](https://www.linkedin.com/in/owaisnazir/) | [GitHub](https://github.com/OwaisNazir09)
 
 ## OBJECTIVE
 As a Computer Science student, I aim to enhance my understanding of core concepts and methodologies in the field while actively seeking opportunities for hands-on experience through projects, research, and internships. My goal is to contribute to technological advancement and innovation, becoming a proficient and adaptable professional in the computer science industry.
